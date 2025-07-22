@@ -69,20 +69,17 @@
 
 ---
 
-## 📁 파일 구조 예시
+## 📁 파일 설명
 
-```
-📦 spotfire-racing-project
-├── README.md
-├── /data
-│   └── lap_data.csv
-├── /images
-│   └── spotfire_dashboard.png
-├── /scripts
-│   └── preprocess_lap.py
-└── /notebooks
-    └── telemetry_analysis.ipynb
-```
+1. ACC-1741114758491.csv
+   > Steam에 존재하는 전용 Telemetry Add-on 프로그램을 통해 추출된 주행 데이터.
+
+2. Mashup.dxp
+   > 주행 시각화를 담고 있는 Spotfire 분석 전용 확장자 파일.
+
+3. TIBCO Spotfire 활용 예시 오동근 발표
+   > 인턴십 기간 동안 진행한 Spotfire의 활용 예시 발표.
+
 
 ---
 
